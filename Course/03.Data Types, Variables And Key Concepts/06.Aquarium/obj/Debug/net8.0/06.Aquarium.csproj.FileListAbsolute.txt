@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\bin\Debug\net8.0\06.Aquarium.exe
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\bin\Debug\net8.0\06.Aquarium.deps.json
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\bin\Debug\net8.0\06.Aquarium.runtimeconfig.json
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\bin\Debug\net8.0\06.Aquarium.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\bin\Debug\net8.0\06.Aquarium.pdb
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.AssemblyInfo.cs
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\refint\06.Aquarium.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.pdb
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\06.Aquarium.genruntimeconfig.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\06.Aquarium\obj\Debug\net8.0\ref\06.Aquarium.dll

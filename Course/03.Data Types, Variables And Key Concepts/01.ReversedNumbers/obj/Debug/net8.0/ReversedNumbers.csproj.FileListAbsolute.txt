@@ -1,0 +1,14 @@
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\bin\Debug\net8.0\ReversedNumbers.exe
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\bin\Debug\net8.0\ReversedNumbers.deps.json
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\bin\Debug\net8.0\ReversedNumbers.runtimeconfig.json
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\bin\Debug\net8.0\ReversedNumbers.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\bin\Debug\net8.0\ReversedNumbers.pdb
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.AssemblyInfo.cs
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\refint\ReversedNumbers.dll
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.pdb
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ReversedNumbers.genruntimeconfig.cache
+C:\Users\Dani\source\repos\DataTypes,VariablesAndKeyConcepts\ReversedNumbers\obj\Debug\net8.0\ref\ReversedNumbers.dll
